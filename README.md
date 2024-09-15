@@ -1,1 +1,1 @@
-# Fruit-Anlayser-Using-NIR-Sensor
+# Fruit-Analyser-Using-NIR-Sensor
